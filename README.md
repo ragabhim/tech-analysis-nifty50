@@ -1,4 +1,4 @@
-## Summer Project: TECHNICAL ANALYSIS OF NIFTY 50 - Finance and Analytics Club, IIT Kanpur 
+## Summer 2020 Project: TECHNICAL ANALYSIS OF NIFTY 50 - Finance and Analytics Club, IIT Kanpur 
 
 The objective of the project is to get familiar with the concepts of the applications of technical analysis (mainly related to building and testing the validity of stock indicators) using OLS Linear Regression in Python.
 
@@ -52,7 +52,7 @@ Learnings:
 * Using various indicators like SMA, RSI and MACD to identify bullish and bearish crossovers and accordingly prepare a trading strategy.
 * Significance and calculation of the mean absolute return.
 
-# Task-3
+### Task-3
 
 Timeline: 8th June 2020 to 28th June 2020
 
